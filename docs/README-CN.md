@@ -1,6 +1,6 @@
 ### [中文](./docs/README-CN.md) | [English](./README.md)
 # 🎓 Student-Homework-Submit-Front
-### 📦[后端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)y | 💻 [前端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
+### 📦[后端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)| 💻 [前端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
 
 ## 1. 📘 项目介绍
 项目是一个本地化班级作业收取的web应用

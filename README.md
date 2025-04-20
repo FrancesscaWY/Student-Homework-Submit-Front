@@ -1,3 +1,4 @@
+### [中文](./README-CN.md) | [English](./README.md)
 # 🎓 Student-Homework-Submit-Front
 ### 📦[Backend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)| 💻 [Frontend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
 

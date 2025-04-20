@@ -1,4 +1,4 @@
-### [中文](./docs/README-CN.md) | [English](./README.md)
+### [中文](./README-CN.md) | [English](./README.md)
 # 🎓 Student-Homework-Submit-Front
 ### 📦[后端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)| 💻 [前端仓库](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
 

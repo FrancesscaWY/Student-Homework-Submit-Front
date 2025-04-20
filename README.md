@@ -1,5 +1,5 @@
 # 🎓 Student-Homework-Submit-Front
-### 📦[Backend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)y | 💻 [Frontend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
+### 📦[Backend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Back)| 💻 [Frontend Repository](https://github.com/FrancesscaWY/Student-Homework-Submit-Front)
 
 ## 1. 📘 Project Introduction
 The Student-Homework-Submit project is a localized web application for class assignment collection.
